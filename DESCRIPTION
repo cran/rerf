@@ -1,8 +1,8 @@
 Package: rerf
 Type: Package
 Title: Randomer Forest
-Version: 2.0.3
-Date: 2019-02-06
+Version: 2.0.4
+Date: 2019-03-15
 Authors@R: c(
         person("Jesse", "Patsolic", role = c("ctb", "cre"), email = "software@neurodata.io"),
         person("Benjamin", "Falk", role = "ctb", email = "falk.ben@jhu.edu"),
@@ -35,9 +35,9 @@ Suggests: roxygen2 (>= 5.0.0), testthat
 LinkingTo: Rcpp, RcppArmadillo
 SystemRequirements: GNU make
 ByteCompile: true
-RoxygenNote: 6.1.0
+RoxygenNote: 6.1.1
 NeedsCompilation: yes
-Packaged: 2019-02-06 21:05:18 UTC; JLP
+Packaged: 2019-03-15 16:54:50 UTC; JLP
 Author: Jesse Patsolic [ctb, cre],
   Benjamin Falk [ctb],
   Jaewon Chung [ctb],
@@ -46,4 +46,4 @@ Author: Jesse Patsolic [ctb, cre],
   Joshua Vogelstein [ths]
 Maintainer: Jesse Patsolic <software@neurodata.io>
 Repository: CRAN
-Date/Publication: 2019-02-06 22:40:02 UTC
+Date/Publication: 2019-03-15 18:50:03 UTC

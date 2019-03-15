@@ -1,4 +1,4 @@
-96a3aa1cb114735159e2884862ce0b7d *DESCRIPTION
+a4cedd164ccca5a1059a25a4d7928f43 *DESCRIPTION
 86d3f3a95c324c9479bd8986968f4327 *LICENSE
 fd67ef726e01d1891d366001701c3284 *NAMESPACE
 a6ea4027101986647f2b3130c7623c70 *NEWS.md
@@ -10,7 +10,7 @@ b51a83fa46541331ed1a4066b728e8f7 *R/FeatureImportance.R
 6abc2836ee9cdcfc33d6ffeee3852a44 *R/PackPredict.R
 42320c5d093d93ab11ff78bdd421ba39 *R/Predict.R
 9b3ebfee2a926b8cbf85c9e99b7ff76f *R/PrintTree.R
-1ba5f3e6b957cce75aade77fd0516f06 *R/RandMat.R
+87c7ebc4103a5bf85a074c76008768a6 *R/RandMat.R
 9e9b1fb2cf64288b9d07469e19873900 *R/RandRot.R
 11465704cb2608985877f5f105331956 *R/RankInterpolate.R
 cc0998f0454cca7fa8539a611fce16cf *R/RankInterpolateVector.R
@@ -44,7 +44,7 @@ d57039ac0ff4a28a0d4149296c110635 *man/PackForest.Rd
 817626b5a9398f2a02a4b36a3d58a341 *man/RandMatBinary.Rd
 b9212e2b881e27a8d3498baf420e6bd2 *man/RandMatContinuous.Rd
 98edffe8ada903615fdbc2394fcc4b23 *man/RandMatCustom.Rd
-003ae2c57e5540f9d2f825928c635422 *man/RandMatFRC.Rd
+b08f2067b3ff6de3e9bcb4a1f01f0fae *man/RandMatFRC.Rd
 ad181e0a09c2a1cc193731380475531e *man/RandMatFRCN.Rd
 3fdded68537bdb02bebd8618d82f4b2b *man/RandMatImageControl.Rd
 951ebda29e93580a900260cbef74800c *man/RandMatImagePatch.Rd
@@ -91,7 +91,7 @@ c5ced3a3ba7eca2b1381e980587dab50 *src/forestPacking/treeStruct/treeBin2.cpp
 dd323723578c4f6b043391c3dccdd33a *tests/test-Times.md
 b451a086d2e921a84db7dfb220445776 *tests/testthat.R
 f941dec8b4ff13b3de7c358918d4e380 *tests/testthat/test-FeatureImportance.R
-77ace8c2c12dc3ef5c8a68b82ecbde37 *tests/testthat/test-RandMat.R
+1e791d8a46173cb744105b5f90c67629 *tests/testthat/test-RandMat.R
 1edda661b1e0a9e37259bc336c268851 *tests/testthat/test-Urerf.R
 e1b2ca8d30362b9e25d2983b4a215367 *tests/testthat/test-general.R
-8ae7c534756fb14c9e90ba1c0252f6ae *tests/testthat/test-predictions.R
+bcd020fb56956e884fef199666c61567 *tests/testthat/test-predictions.R
